@@ -50,7 +50,7 @@ This project is part of the **Enterprise Application Programming** course and de
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone  https://github.com/freda1874/DataBank-JSF-JPA-Single-Page-App.git
    ```
 2. **Open in Eclipse**
    - Import the project as an existing Maven project.
