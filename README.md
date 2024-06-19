@@ -9,6 +9,8 @@ This project is part of the **Enterprise Application Programming** course and de
 - **JPA Model**: Implements JPA model classes with appropriate mappings and annotations.
 - **Validation**: Adds validation to JSF views.
 - **Bootstrap**: Styles the Student Directory application as a Single Page Application (SPA).
+- ![572f41fc304f02b746b37977c50a49b](https://github.com/freda1874/DataBank-JSF-JPA-Single-Page-App/assets/85437054/5ddab97c-ef0a-4b2e-80a4-fed9e9d4622c)
+
 ![image](https://github.com/freda1874/DataBank-JSF-JPA-Single-Page-App/assets/85437054/e3b24520-6392-41c1-a3d7-8f16351ddac4)
 
 ![image](https://github.com/freda1874/DataBank-JSF-JPA-Single-Page-App/assets/85437054/c134557f-3519-44d1-8f90-3d7158bb291b)
